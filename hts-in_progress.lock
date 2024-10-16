@@ -1,0 +1,5 @@
+Mirror in progress since Thu, 17 Oct 2024 03:25:39 .. please wait!
+winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.opz.com/presale -O1 ""C:\My Web Sites\https___www.opz.com_presale"" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=14464
+START=1729115739
