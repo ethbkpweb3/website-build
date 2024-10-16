@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 891.1 675">
+    <g id="Layer_1-2">
+        <g>
+            <polygon points="0 342 225 342 558 675 333.1 675 0 342" style="fill:#8430fc; fill-rule:evenodd;" />
+            <polygon points="891 342 666 342 499.4 508.1 724.4 508.1 891 342"
+                style="fill:#7303fc; fill-rule:evenodd;" />
+            <polygon points="391.6 166.9 166.6 166.9 0 333 225 333 391.6 166.9"
+                style="fill:#7303fc; fill-rule:evenodd;" />
+            <polygon points="332.9 0 557.8 0 891.1 333 665.9 333 332.9 0" style="fill:#5c02ca; fill-rule:evenodd;" />
+            <rect x="363.1" y="187.7" width="165" height="299.8" transform="translate(-108.2 414) rotate(-45)"
+                style="fill:#7303fc;" />
+        </g>
+    </g>
+</svg>
