@@ -1,45 +1,55 @@
-import {
-    g as e,
-    b as a,
-    h as l
-} from "./index-jdACH0Rc.js";
-const t = e("avatarSettings", (() => {
-    const e = a("haircolors", ""),
-        t = a("hatandshirtcolors", ""),
-        s = a("skincolors", ""),
-        u = a("accessories", ""),
-        v = a("clothes", ""),
-        o = a("clothescolor", ""),
-        r = a("eyebrows", ""),
-        c = a("eyes", ""),
-        i = a("facialhair", ""),
-        g = a("graphicshirt", ""),
-        h = a("mouths", ""),
-        n = a("tops", ""),
-        D = a("enabled", !1),
-        b = a("circleenabled", !1),
-        d = a("circle", ""),
-        p = l({
-            get: () => D.value,
-            set(e) {
-                D.value = e
-            }
-        }),
-        f = l({
-            get: () => b.value,
-            set(e) {
-                b.value = e
-            }
-        }),
-        m = l({
-            get: () => d.value,
-            set(e) {
-                d.value = e
-            }
-        });
+import {g as e, b as a, h as l} from "./index-jdACH0Rc.js";
+const t = e("avatarSettings", ( () => {
+    const e = a("haircolors", "")
+      , t = a("hatandshirtcolors", "")
+      , s = a("skincolors", "")
+      , u = a("accessories", "")
+      , v = a("clothes", "")
+      , o = a("clothescolor", "")
+      , r = a("eyebrows", "")
+      , c = a("eyes", "")
+      , i = a("facialhair", "")
+      , g = a("graphicshirt", "")
+      , h = a("mouths", "")
+      , n = a("tops", "")
+      , D = a("enabled", !1)
+      , b = a("circleenabled", !1)
+      , d = a("circle", "")
+      , p = l({
+        get: () => D.value,
+        set(e) {
+            D.value = e
+        }
+    })
+      , f = l({
+        get: () => b.value,
+        set(e) {
+            b.value = e
+        }
+    })
+      , m = l({
+        get: () => d.value,
+        set(e) {
+            d.value = e
+        }
+    });
     return {
         clearAll: function() {
-            e.value = "", t.value = "", s.value = "", u.value = "", v.value = "", o.value = "", r.value = "", c.value = "", i.value = "", g.value = "", h.value = "", n.value = "", D.value = !1, b.value = !1, d.value = ""
+            e.value = "",
+            t.value = "",
+            s.value = "",
+            u.value = "",
+            v.value = "",
+            o.value = "",
+            r.value = "",
+            c.value = "",
+            i.value = "",
+            g.value = "",
+            h.value = "",
+            n.value = "",
+            D.value = !1,
+            b.value = !1,
+            d.value = ""
         },
         haircolorsData: l({
             get: () => e.value,
@@ -117,7 +127,6 @@ const t = e("avatarSettings", (() => {
         circleenabledData: f,
         circleData: m
     }
-}));
-export {
-    t as a
-};
+}
+));
+export {t as a};
