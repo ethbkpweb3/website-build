@@ -1,4 +1,1 @@
-const o = {};
-export {
-    o as b
-};
+const o={};export{o as b};
