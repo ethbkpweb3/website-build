@@ -137,6 +137,4 @@ const e = [{
     value: "R",
     name: "ZAR"
 }];
-export {
-    e as a
-};
+export {e as a};
