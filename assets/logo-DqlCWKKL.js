@@ -1,1 +1,4 @@
-const o="/assets/logo/logo.svg";export{o as _};
+const o = "/assets/logo/logo.svg";
+export {
+    o as _
+};
