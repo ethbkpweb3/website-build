@@ -28,37 +28,37 @@ if (!self.define) {
 define(["./workbox-f5523f08"], (function(e) {
     "use strict";
     self.skipWaiting(), e.clientsClaim(), e.precacheAndRoute([{
-        url: "assets/___vite-browser-external_commonjs-proxy-BKgLGdYW.js",
+        url: "assets/___vite-browser-external_commonjs-proxy-CX5ghsV-.js",
         revision: null
     }, {
-        url: "assets/_baseClone-mconpdQJ.js",
+        url: "assets/_baseClone-CNNEnxsr.js",
         revision: null
     }, {
         url: "assets/_commonjs-dynamic-modules-BHR_E30J.js",
         revision: null
     }, {
-        url: "assets/_initCloneObject-CyvZF8uk.js",
+        url: "assets/_initCloneObject-DqrhPNyg.js",
         revision: null
     }, {
         url: "assets/_plugin-vue_export-helper-BCo6x5W8.js",
         revision: null
     }, {
-        url: "assets/_slug_-BAfYjw3V.js",
+        url: "assets/_slug_-BiHG1kob.js",
         revision: null
     }, {
-        url: "assets/_slug_-C93GwTjH.js",
+        url: "assets/_slug_-BNMiEf3b.js",
+        revision: null
+    }, {
+        url: "assets/_slug_-Dg-eOn-r.js",
         revision: null
     }, {
         url: "assets/_slug_-Dh0dZVQh.css",
         revision: null
     }, {
+        url: "assets/_slug_-DiqqaWh-.js",
+        revision: null
+    }, {
         url: "assets/_slug_-DrXgqyrn.css",
-        revision: null
-    }, {
-        url: "assets/_slug_-DtC3sFIK.js",
-        revision: null
-    }, {
-        url: "assets/_slug_-DwtpF2dd.js",
         revision: null
     }, {
         url: "assets/_slug_-DYu46ged.css",
@@ -67,34 +67,34 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/6781170c0c08b15fff2d-te4a933V.svg",
         revision: null
     }, {
-        url: "assets/about-us-DDttJA-U.js",
+        url: "assets/about-us-93bbvZhY.js",
         revision: null
     }, {
         url: "assets/about-us-rYh8ES-G.css",
         revision: null
     }, {
+        url: "assets/affiliates--nQ7C3TP.js",
+        revision: null
+    }, {
         url: "assets/affiliates-BHXBViTx.css",
         revision: null
     }, {
-        url: "assets/affiliates-COApgXOX.js",
+        url: "assets/ai-BBGbOaG6.js",
         revision: null
     }, {
         url: "assets/ai-Bc6Mc1BY.css",
         revision: null
     }, {
-        url: "assets/ai-CWZ3iSlo.js",
-        revision: null
-    }, {
         url: "assets/ai1-BT9n9Bg9.css",
         revision: null
     }, {
-        url: "assets/ai1-DUMZZ7TQ.js",
+        url: "assets/ai1-DEFoOEcL.js",
         revision: null
     }, {
         url: "assets/AiTradeItems2-BJ9muHCV.css",
         revision: null
     }, {
-        url: "assets/AiTradeItems2-CNJNdsPE.js",
+        url: "assets/AiTradeItems2-CR7EgUZC.js",
         revision: null
     }, {
         url: "assets/all-countries-_6k8nJ5H.js",
@@ -106,22 +106,22 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/announcements-B0ktxpcj.css",
         revision: null
     }, {
-        url: "assets/announcements-DYzG5ouO.js",
+        url: "assets/announcements-l6mKJuBA.js",
         revision: null
     }, {
         url: "assets/apexwallet-ClxzXof4.js",
         revision: null
     }, {
-        url: "assets/api-C-77tzWr.css",
+        url: "assets/api-BinHyDDW.js",
         revision: null
     }, {
-        url: "assets/api-C4EvdbqA.js",
+        url: "assets/api-C-77tzWr.css",
         revision: null
     }, {
         url: "assets/AppPop-C4R2iaVk.css",
         revision: null
     }, {
-        url: "assets/AppPop-C6dVPDH2.js",
+        url: "assets/AppPop-DXr7YMXx.js",
         revision: null
     }, {
         url: "assets/appstore/app-store.svg",
@@ -142,16 +142,16 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/avatarEdit-C7rzl28S.css",
         revision: null
     }, {
-        url: "assets/avatarEdit-QSoXd_Wk.js",
+        url: "assets/avatarEdit-DFArhysC.js",
         revision: null
     }, {
-        url: "assets/avatarSettings-Daanxsoo.js",
+        url: "assets/avatarSettings-C1kj7zSJ.js",
         revision: null
     }, {
         url: "assets/AvatarSimple-BuEyrlKM.css",
         revision: null
     }, {
-        url: "assets/AvatarSimple-CfXnZ0K8.js",
+        url: "assets/AvatarSimple-DIs6U3iF.js",
         revision: null
     }, {
         url: "assets/bifrostwallet-BN2G_0aE.js",
@@ -169,7 +169,7 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/bitski-SmR6xDPs.js",
         revision: null
     }, {
-        url: "assets/Blob-CB8vXQ6U.js",
+        url: "assets/Blob-B8YNKMyz.js",
         revision: null
     }, {
         url: "assets/Blob-DTQun6mF.css",
@@ -271,46 +271,46 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/brave-COnsMRSe.js",
         revision: null
     }, {
-        url: "assets/browser-B3Bvmjnq.js",
+        url: "assets/browser-Cv63Auap.js",
         revision: null
     }, {
         url: "assets/browser-ZWSpNtBY.js",
         revision: null
     }, {
-        url: "assets/Button-BbTMX0Dh.js",
+        url: "assets/Button-C_PMcYdl.js",
         revision: null
     }, {
         url: "assets/Button-VC7kHEwS.css",
         revision: null
     }, {
-        url: "assets/ButtonGR-BF9zAU5B.js",
+        url: "assets/ButtonGR-CCzD27Qk.js",
         revision: null
     }, {
         url: "assets/ButtonGR-D0Gc8z5Z.css",
         revision: null
     }, {
-        url: "assets/Buttons-C99wMY30.js",
+        url: "assets/Buttons-CfcL7k2l.css",
         revision: null
     }, {
-        url: "assets/Buttons-CfcL7k2l.css",
+        url: "assets/Buttons-CiRbhFtL.js",
         revision: null
     }, {
         url: "assets/calcs-C2mNVRpW.js",
         revision: null
     }, {
-        url: "assets/carousel.es-cLcmNbI1.js",
-        revision: null
-    }, {
-        url: "assets/CaseStudy-2bmZBwD0.js",
+        url: "assets/carousel.es-BlHzsVLl.js",
         revision: null
     }, {
         url: "assets/CaseStudy-CcJE1dy9.css",
         revision: null
     }, {
-        url: "assets/charity-list-BSbuBcyf.css",
+        url: "assets/CaseStudy-DQNeIYfq.js",
         revision: null
     }, {
-        url: "assets/charity-list-C1n5Zcjf.js",
+        url: "assets/charity-list-B_MRTy3a.js",
+        revision: null
+    }, {
+        url: "assets/charity-list-BSbuBcyf.css",
         revision: null
     }, {
         url: "assets/charting/bundles/1403.5c193407bf9023ec51df.css",
@@ -1003,7 +1003,7 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/charting/custom-styles.css",
         revision: null
     }, {
-        url: "assets/chatAi-BQMvJ2Nd.js",
+        url: "assets/chatAi-C5hZwDRz.js",
         revision: null
     }, {
         url: "assets/chatAi-XTYATwdi.css",
@@ -1018,10 +1018,10 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/Collapse-1PsLWcOr.css",
         revision: null
     }, {
-        url: "assets/Collapse.vue_vue_type_style_index_0_lang-KeWOc8fH.js",
+        url: "assets/Collapse.vue_vue_type_style_index_0_lang-jEeEeRhV.js",
         revision: null
     }, {
-        url: "assets/Control-CwktQ3QA.js",
+        url: "assets/Control-BAxR9hhH.js",
         revision: null
     }, {
         url: "assets/Control-DJZdipi7.css",
@@ -1033,7 +1033,7 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/CountryInput-Cya19T-q.css",
         revision: null
     }, {
-        url: "assets/CountryInput.vue_vue_type_style_index_0_lang-B3TRUMWS.js",
+        url: "assets/CountryInput.vue_vue_type_style_index_0_lang-EF4WwsXL.js",
         revision: null
     }, {
         url: "assets/dapps/1inch.png",
@@ -1093,16 +1093,16 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/DarkImage-CaiT5qUf.css",
         revision: null
     }, {
-        url: "assets/DarkImage-DNnWbY93.js",
+        url: "assets/DarkImage-CKYmncsD.js",
         revision: null
     }, {
         url: "assets/dashboard-BUZTzV_J.css",
         revision: null
     }, {
-        url: "assets/dashboard-fYuxUZsO.js",
+        url: "assets/dashboard-CsYZsgkT.js",
         revision: null
     }, {
-        url: "assets/dayjs.min-BNm5Luvd.js",
+        url: "assets/dayjs.min-CoMKM3gL.js",
         revision: null
     }, {
         url: "assets/defiwallet-B6qDvAH-.js",
@@ -1111,73 +1111,73 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/deposit-kgQvDb1t.css",
         revision: null
     }, {
-        url: "assets/deposit.vue_vue_type_style_index_0_lang-t57i5TRn.js",
+        url: "assets/deposit.vue_vue_type_style_index_0_lang-BPShOGGL.js",
         revision: null
     }, {
         url: "assets/detected-CXNCFt-l.js",
         revision: null
     }, {
-        url: "assets/directive-LFHXp42y.js",
+        url: "assets/directive-CUB6-Wra.js",
         revision: null
     }, {
-        url: "assets/directives-Cz4dj-UI.js",
+        url: "assets/directives-BjcM-Tkz.js",
         revision: null
     }, {
         url: "assets/doubleCheck-ETGkdFZA.css",
         revision: null
     }, {
-        url: "assets/doubleCheck.vue_vue_type_style_index_0_lang-DtYRgs-3.js",
+        url: "assets/doubleCheck.vue_vue_type_style_index_0_lang-CBr02gDU.js",
         revision: null
     }, {
-        url: "assets/DownloadApp-BhDQDlHL.js",
+        url: "assets/DownloadApp-CvKNuiGj.js",
         revision: null
     }, {
         url: "assets/DownloadApp-D0-D3nO1.css",
         revision: null
     }, {
-        url: "assets/draghover-NnJCASl0.js",
+        url: "assets/draghover-yVqDrutG.js",
         revision: null
     }, {
         url: "assets/echooo-DVY8aLji.js",
         revision: null
     }, {
-        url: "assets/editAvatarPage-leqcvMMB.js",
+        url: "assets/editAvatarPage-H1PBnLE7.js",
         revision: null
     }, {
-        url: "assets/encrypt-BD7XOn5Z.js",
+        url: "assets/encrypt-CxsJCXOk.js",
         revision: null
     }, {
         url: "assets/enkrypt-CscaWzeK.js",
         revision: null
     }, {
-        url: "assets/events-D8VlOyhg.js",
+        url: "assets/events-Dm2NiFyR.js",
         revision: null
     }, {
         url: "assets/exodus-CokzJYSo.js",
         revision: null
     }, {
+        url: "assets/FeatureBlockT-9M0q3Tg6.js",
+        revision: null
+    }, {
         url: "assets/FeatureBlockT-CcN9jRCM.css",
         revision: null
     }, {
-        url: "assets/FeatureBlockT-D8Wdggdk.js",
+        url: "assets/feedback-A1a89gbG.js",
         revision: null
     }, {
-        url: "assets/feedback-BYuSfKmy.css",
-        revision: null
-    }, {
-        url: "assets/feedback-JcTjhyT_.js",
-        revision: null
-    }, {
-        url: "assets/fees-BYMJQl6E.js",
+        url: "assets/feedback-BGgraAlR.css",
         revision: null
     }, {
         url: "assets/fees-C-yjrx-0.css",
         revision: null
     }, {
+        url: "assets/fees-DE9tD7a5.js",
+        revision: null
+    }, {
         url: "assets/FooterB-BEcwYlxb.css",
         revision: null
     }, {
-        url: "assets/FooterB-Blg-ttBc.js",
+        url: "assets/FooterB-DIvyuXCZ.js",
         revision: null
     }, {
         url: "assets/fordefi-CVVKuHzZ.js",
@@ -1201,16 +1201,16 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/governance-CvklQWnW.css",
         revision: null
     }, {
-        url: "assets/governance-laFaFwWn.js",
+        url: "assets/governance-DO_NaJTF.js",
         revision: null
     }, {
-        url: "assets/Hero-CJKitfhu.css",
+        url: "assets/Hero-BK1fusEN.css",
         revision: null
     }, {
-        url: "assets/Hero.vue_vue_type_style_index_0_lang-BzZhUp93.js",
+        url: "assets/Hero.vue_vue_type_style_index_0_lang-DHspTRKr.js",
         revision: null
     }, {
-        url: "assets/history-CiSfivh3.js",
+        url: "assets/history-BZNdjqy7.js",
         revision: null
     }, {
         url: "assets/history-CTv9-wqN.css",
@@ -1222,7 +1222,7 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/hyperpay-AkXxfXft.js",
         revision: null
     }, {
-        url: "assets/i18n-Fym91Jj9.js",
+        url: "assets/i18n-D7pZkOIH.js",
         revision: null
     }, {
         url: "assets/icon-BnrXjUi_.js",
@@ -1246,7 +1246,7 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/identity-BEFwCCXo.css",
         revision: null
     }, {
-        url: "assets/identity-uh_9h1xQ.js",
+        url: "assets/identity-n53N_psn.js",
         revision: null
     }, {
         url: "assets/if-defined-Ci7BVwcO.js",
@@ -1267,6 +1267,9 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/imtoken-DFAW873f.js",
         revision: null
     }, {
+        url: "assets/index--1JsBO1r.js",
+        revision: null
+    }, {
         url: "assets/index-021f6a62-Cm7bXgBl.js",
         revision: null
     }, {
@@ -1276,52 +1279,40 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/index-2AuomsNz.js",
         revision: null
     }, {
+        url: "assets/index-2O69uWbI.js",
+        revision: null
+    }, {
+        url: "assets/index-38aUouWI.js",
+        revision: null
+    }, {
         url: "assets/index-40a497ea-CvwyTB6b.js",
         revision: null
     }, {
-        url: "assets/index-53pLvWIz.js",
+        url: "assets/index-5N62XIoj.js",
         revision: null
     }, {
-        url: "assets/index-6X24dcO3.js",
+        url: "assets/Index-8adb4124-CVbb68FZ.js",
         revision: null
     }, {
-        url: "assets/Index-8adb4124-DGVNW2_u.js",
+        url: "assets/index-8oEn81sF.css",
         revision: null
     }, {
-        url: "assets/Index-a4a1058e-AiHaaxsw.js",
+        url: "assets/Index-a4a1058e-Cnnia2u4.js",
         revision: null
     }, {
-        url: "assets/index-B_Hz-fzE.js",
+        url: "assets/index-A4JzvPiV.js",
         revision: null
     }, {
         url: "assets/index-B0_tyXIt.js",
         revision: null
     }, {
-        url: "assets/index-B1yvdImc.js",
+        url: "assets/index-BaPl-dvV.js",
         revision: null
     }, {
-        url: "assets/index-B2JapYKa.css",
-        revision: null
-    }, {
-        url: "assets/index-B7UsHWbz.js",
-        revision: null
-    }, {
-        url: "assets/index-BahOysPn.js",
-        revision: null
-    }, {
-        url: "assets/index-BFAH_eUP.js",
-        revision: null
-    }, {
-        url: "assets/index-bFdouc4y.js",
-        revision: null
-    }, {
-        url: "assets/index-BFdxE0IH.js",
+        url: "assets/index-BawHXLPm.js",
         revision: null
     }, {
         url: "assets/index-BFnVcjcj.js",
-        revision: null
-    }, {
-        url: "assets/index-BhYs_tBo.js",
         revision: null
     }, {
         url: "assets/index-Bi5xy44m.js",
@@ -1333,190 +1324,199 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/index-Bm2XPyRi.css",
         revision: null
     }, {
-        url: "assets/index-BoedKVmG.css",
+        url: "assets/index-BPv_7EZ9.js",
         revision: null
     }, {
-        url: "assets/index-BoKGXuju.js",
-        revision: null
-    }, {
-        url: "assets/index-boOh8pCp.js",
+        url: "assets/index-BR6qnryQ.js",
         revision: null
     }, {
         url: "assets/index-BrkMkqSC.css",
         revision: null
     }, {
+        url: "assets/index-BrL1bebA.js",
+        revision: null
+    }, {
         url: "assets/index-BSBG2tux.js",
         revision: null
     }, {
-        url: "assets/index-Bv0EmDBg.js",
+        url: "assets/index-BUqPiGKl.js",
         revision: null
     }, {
         url: "assets/index-Bv8nDwWo.js",
         revision: null
     }, {
-        url: "assets/index-BWeq1WY3.js",
+        url: "assets/index-C_jYSJuE.css",
         revision: null
     }, {
-        url: "assets/index-ByaHb0HN.js",
+        url: "assets/index-C4jh6M52.js",
         revision: null
     }, {
-        url: "assets/index-BZssNWJT.js",
+        url: "assets/index-C8UagDfc.js",
         revision: null
     }, {
-        url: "assets/index-C6qopx2I.js",
-        revision: null
-    }, {
-        url: "assets/index-C8W9xb4z.js",
+        url: "assets/index-CAoXt2CR.js",
         revision: null
     }, {
         url: "assets/index-CaRD-WAZ.js",
         revision: null
     }, {
-        url: "assets/index-CCs2guro.js",
+        url: "assets/index-CB5HUA9W.js",
         revision: null
     }, {
-        url: "assets/index-CDNWQyqE.js",
+        url: "assets/index-CBmmRNm0.js",
         revision: null
     }, {
-        url: "assets/index-Cg9BJciP.js",
+        url: "assets/index-CCaaTyX8.js",
         revision: null
     }, {
-        url: "assets/index-CGsvcoiG.js",
+        url: "assets/index-CcBkONjK.js",
         revision: null
     }, {
-        url: "assets/index-CI0d8yek.js",
+        url: "assets/index-Ccebcdf2.js",
         revision: null
     }, {
-        url: "assets/index-Citk0ABi.js",
+        url: "assets/index-Cgdd8ERt.js",
         revision: null
     }, {
-        url: "assets/index-CrBYayi3.js",
+        url: "assets/index-Ci27R3Uf.js",
         revision: null
     }, {
-        url: "assets/index-cRGdv3RN.js",
+        url: "assets/index-CIJievV_.js",
         revision: null
     }, {
-        url: "assets/index-CSGGFzQh.js",
+        url: "assets/index-CiVKPdRb.js",
         revision: null
     }, {
-        url: "assets/index-CttVqw_p.js",
+        url: "assets/index-COPH5DzG.js",
         revision: null
     }, {
-        url: "assets/index-CUp0EaGx.js",
+        url: "assets/index-CQfCy4Xm.js",
         revision: null
     }, {
-        url: "assets/index-CYOIannN.js",
+        url: "assets/index-Cqgn8wHL.js",
         revision: null
     }, {
-        url: "assets/index-D4R9Vjdp.js",
+        url: "assets/index-CreMjc0E.js",
         revision: null
     }, {
-        url: "assets/index-D4VwMXpj.js",
+        url: "assets/index-CRtkyuT7.js",
         revision: null
     }, {
-        url: "assets/index-D5T9bQSi.js",
+        url: "assets/index-CsseI5JE.js",
         revision: null
     }, {
-        url: "assets/index-D66pxSbk.js",
+        url: "assets/index-CteOOV_f.js",
         revision: null
     }, {
-        url: "assets/index-D6TWIeTA.js",
+        url: "assets/index-CwZ3pmKF.js",
         revision: null
     }, {
-        url: "assets/index-DB0uk17e.js",
+        url: "assets/index-Czea63rc.js",
         revision: null
     }, {
-        url: "assets/index-DBFvTDaE.js",
+        url: "assets/index-D-8OQ9tO.js",
         revision: null
     }, {
-        url: "assets/index-DbrUbqOI.js",
+        url: "assets/index-D21_sbBM.js",
         revision: null
     }, {
-        url: "assets/index-De2VsIAu.js",
+        url: "assets/index-D45OIXsf.js",
         revision: null
     }, {
-        url: "assets/index-DgEpRd73.js",
+        url: "assets/index-D9byNngK.js",
+        revision: null
+    }, {
+        url: "assets/index-DcsDZRSP.js",
+        revision: null
+    }, {
+        url: "assets/index-Dg7Ct9fX.js",
+        revision: null
+    }, {
+        url: "assets/index-DGdb-pUH.js",
+        revision: null
+    }, {
+        url: "assets/index-DhcJt9AT.js",
+        revision: null
+    }, {
+        url: "assets/index-DhHA3mFI.js",
+        revision: null
+    }, {
+        url: "assets/index-DHlqfezK.js",
+        revision: null
+    }, {
+        url: "assets/index-DI0c3Das.js",
+        revision: null
+    }, {
+        url: "assets/index-DMxP6Huc.js",
+        revision: null
+    }, {
+        url: "assets/index-DN4QhlCV.js",
         revision: null
     }, {
         url: "assets/index-DNlxu5Xw.css",
         revision: null
     }, {
-        url: "assets/index-DoSGRFO3.js",
+        url: "assets/index-DPclT-tF.js",
         revision: null
     }, {
         url: "assets/index-DPTDKB4o.js",
         revision: null
     }, {
-        url: "assets/index-Dq1-XyVz.js",
+        url: "assets/index-DRQVRHXB.js",
         revision: null
     }, {
-        url: "assets/index-DqAuULiT.js",
-        revision: null
-    }, {
-        url: "assets/index-DtPnfIe2.js",
+        url: "assets/index-Dt2qPLsT.js",
         revision: null
     }, {
         url: "assets/index-DUnl7OMU.css",
         revision: null
     }, {
-        url: "assets/index-DWlQOkf0.js",
+        url: "assets/index-DW-JDncT.js",
         revision: null
     }, {
-        url: "assets/index-DWTvrBdo.js",
+        url: "assets/index-DWyf7GKU.js",
         revision: null
     }, {
-        url: "assets/index-Dwv4qbXN.js",
+        url: "assets/index-DxHJyswS.js",
         revision: null
     }, {
-        url: "assets/index-DXxnv9pt.js",
+        url: "assets/index-DYFBo1-I.js",
         revision: null
     }, {
-        url: "assets/index-DyCSbSlA.js",
+        url: "assets/index-DYh1qtlV.js",
         revision: null
     }, {
-        url: "assets/index-DzOE2q39.js",
-        revision: null
-    }, {
-        url: "assets/index-DZsnwgZr.js",
+        url: "assets/index-DZwhim7i.js",
         revision: null
     }, {
         url: "assets/index-Gj2QCn8P.js",
         revision: null
     }, {
-        url: "assets/index-jdACH0Rc.js",
+        url: "assets/index-HXOjRM0c.js",
         revision: null
     }, {
         url: "assets/index-jkYc0eZM.css",
         revision: null
     }, {
-        url: "assets/index-kyK12XVK.js",
+        url: "assets/index-JwQmHkqE.js",
+        revision: null
+    }, {
+        url: "assets/index-ltm-sONb.js",
         revision: null
     }, {
         url: "assets/index-lYEmKN8d.js",
         revision: null
     }, {
-        url: "assets/index-mCeYya-f.js",
-        revision: null
-    }, {
-        url: "assets/index-n6eF8ZAD.js",
-        revision: null
-    }, {
         url: "assets/index-Noq_RbVZ.css",
         revision: null
     }, {
-        url: "assets/index-qJerOQq9.js",
+        url: "assets/index-Q5e3bkYB.js",
         revision: null
     }, {
         url: "assets/index-st4cR-qp.css",
         revision: null
     }, {
-        url: "assets/index-TLDTKfLl.js",
-        revision: null
-    }, {
-        url: "assets/index-xc23zCj4.js",
-        revision: null
-    }, {
-        url: "assets/index-Y8R-DFnQ.js",
+        url: "assets/index-wV0BwLDn.js",
         revision: null
     }, {
         url: "assets/index-yz0bUB2k.css",
@@ -1525,16 +1525,16 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/index-ZG_4Yow3.css",
         revision: null
     }, {
-        url: "assets/index.es-BkijiSkd.js",
+        url: "assets/index.es-BeMwQ7km.js",
         revision: null
     }, {
-        url: "assets/index.es-C51bK0_g.js",
+        url: "assets/index.es-CLJWacfx.js",
         revision: null
     }, {
-        url: "assets/index.es-CLDC7QR-.js",
+        url: "assets/index.es-DfIYpMBx.js",
         revision: null
     }, {
-        url: "assets/index.esm-D0uMNszy.js",
+        url: "assets/index.esm-CiciK8Oe.js",
         revision: null
     }, {
         url: "assets/index.modern-ChJ35hAh.js",
@@ -1546,10 +1546,10 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/investors-B-U7nln0.css",
         revision: null
     }, {
-        url: "assets/investors-D4F1LqbL.js",
+        url: "assets/investors-CaYIg--H.js",
         revision: null
     }, {
-        url: "assets/isPlainObject--3V5F7Ei.js",
+        url: "assets/isPlainObject-BkooXA2Q.js",
         revision: null
     }, {
         url: "assets/kayros-DvuQyfd6.js",
@@ -1570,13 +1570,13 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/loadingSvg-B2DNNGSL.js",
         revision: null
     }, {
-        url: "assets/lodash-Bck59wt3.js",
+        url: "assets/lodash-Bm6t9hsB.js",
+        revision: null
+    }, {
+        url: "assets/login-3-B99vG65F.js",
         revision: null
     }, {
         url: "assets/login-3-BN_S4muW.css",
-        revision: null
-    }, {
-        url: "assets/login-3-DmoKTsNI.js",
         revision: null
     }, {
         url: "assets/logo-DqlCWKKL.js",
@@ -1606,10 +1606,10 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/logo/logowhite.svg",
         revision: null
     }, {
-        url: "assets/markets-Cr7lo02p.css",
+        url: "assets/markets-B5rrQHTt.js",
         revision: null
     }, {
-        url: "assets/markets-DeJJUtdP.js",
+        url: "assets/markets-Cr7lo02p.css",
         revision: null
     }, {
         url: "assets/mathwallet-Bt0Tsmap.js",
@@ -1621,7 +1621,7 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/metamask-2f2KUeTc.js",
         revision: null
     }, {
-        url: "assets/mpc-Bqy9SxXy.js",
+        url: "assets/mpc-BqI6FtHy.js",
         revision: null
     }, {
         url: "assets/mpc-CqfsCa28.css",
@@ -1633,19 +1633,19 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/Navbar2-CTXRQ5hP.css",
         revision: null
     }, {
-        url: "assets/Navbar2-DVEXcHRs.js",
+        url: "assets/Navbar2-Cx1AKm6v.js",
         revision: null
     }, {
-        url: "assets/naviguation-guards-BGJyt_G9.js",
+        url: "assets/naviguation-guards-CbAuGWU8.js",
         revision: null
     }, {
-        url: "assets/notyf-BoD8O5Hj.js",
+        url: "assets/notyf-B94j7N6A.js",
         revision: null
     }, {
-        url: "assets/nprogress-8bNgODAl.js",
+        url: "assets/nprogress-DXWXWxW-.js",
         revision: null
     }, {
-        url: "assets/number-8GOwVmHT.js",
+        url: "assets/number-C9q0Hn1e.js",
         revision: null
     }, {
         url: "assets/okxwallet-DyCWl_5v.js",
@@ -1663,22 +1663,22 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/opz-B6gfBROM.js",
         revision: null
     }, {
-        url: "assets/orders-CceznBxf.js",
+        url: "assets/orders-CwSq8eV8.js",
         revision: null
     }, {
         url: "assets/orders-S061zLsb.css",
         revision: null
     }, {
-        url: "assets/overview-C_xPmL0Y.css",
+        url: "assets/overview-BFkoSomj.js",
         revision: null
     }, {
-        url: "assets/overview-CHjwaBFt.js",
+        url: "assets/overview-C_xPmL0Y.css",
         revision: null
     }, {
         url: "assets/ownbit-BLoiVM6j.js",
         revision: null
     }, {
-        url: "assets/PageTitle-C0-ARbcp.js",
+        url: "assets/PageTitle-ChfDSLUN.js",
         revision: null
     }, {
         url: "assets/PageTitle-CzTGR_Md.css",
@@ -1687,19 +1687,19 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/phantom-CSi5eDM6.js",
         revision: null
     }, {
-        url: "assets/pitch-DIXqdZLw.css",
+        url: "assets/pitch-CO1xGTVN.js",
         revision: null
     }, {
-        url: "assets/pitch-s-XmRYzX.js",
+        url: "assets/pitch-DIXqdZLw.css",
         revision: null
     }, {
         url: "assets/post-B_RxNAS1.css",
         revision: null
     }, {
-        url: "assets/post-CEeTW6lv.js",
+        url: "assets/post-Chg0ZXlk.js",
         revision: null
     }, {
-        url: "assets/privacy-policy-CRv1qzIo.js",
+        url: "assets/privacy-policy-LVIH9iIe.js",
         revision: null
     }, {
         url: "assets/provider-browser-D4UahRA7.js",
@@ -1750,16 +1750,16 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/reset-password-C8y7FRWR.css",
         revision: null
     }, {
-        url: "assets/reset-password-hsoefaDj.js",
+        url: "assets/reset-password-Dzche2P4.js",
         revision: null
     }, {
-        url: "assets/rewards-CehdPHV2.js",
+        url: "assets/rewards-BE0tSamr.js",
         revision: null
     }, {
         url: "assets/rewards-DvrQf1qW.css",
         revision: null
     }, {
-        url: "assets/risk-xa-WTB4o.js",
+        url: "assets/risk-Cr_ImeF9.js",
         revision: null
     }, {
         url: "assets/roninwallet-BuA6hniA.js",
@@ -1777,13 +1777,13 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/secp256k1-LeYlzbB0.js",
         revision: null
     }, {
-        url: "assets/Section-fdq8wkjz.js",
+        url: "assets/Section-DPQWt_EU.js",
         revision: null
     }, {
         url: "assets/Section-HHpnwFQN.css",
         revision: null
     }, {
-        url: "assets/SectionTitle.vue_vue_type_script_setup_true_lang-BWlX4763.js",
+        url: "assets/SectionTitle.vue_vue_type_script_setup_true_lang-C7hy-prY.js",
         revision: null
     }, {
         url: "assets/sequence-DTlB_NhP.js",
@@ -1795,7 +1795,7 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/settings-C1VbOigE.css",
         revision: null
     }, {
-        url: "assets/settings-CxMwTl-t.js",
+        url: "assets/settings-DbogBMD2.js",
         revision: null
     }, {
         url: "assets/sha256-o0pdH_sn.js",
@@ -1906,16 +1906,16 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/shop-list-D1Ula6ag.css",
         revision: null
     }, {
-        url: "assets/shop-list-DfZXrcyR.js",
+        url: "assets/shop-list-DuET_oha.js",
         revision: null
     }, {
-        url: "assets/SideSection-CU1m_mb0.js",
+        url: "assets/SideSection-DxrL8o77.js",
         revision: null
     }, {
         url: "assets/SideSection-U1gxhBGX.css",
         revision: null
     }, {
-        url: "assets/signup-3-BH5oMGsU.js",
+        url: "assets/signup-3-CPRZEgIE.js",
         revision: null
     }, {
         url: "assets/signup-3-Dlc7Q2hB.css",
@@ -1924,13 +1924,13 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/sleep-MiAo3PcT.js",
         revision: null
     }, {
-        url: "assets/slider-B_s2duRM.js",
+        url: "assets/slider-ZNWajzpX.js",
         revision: null
     }, {
         url: "assets/sockjs-CbOnntyW.css",
         revision: null
     }, {
-        url: "assets/sockjs.min-CWulKIFY.js",
+        url: "assets/sockjs.min-Cp7lQCtH.js",
         revision: null
     }, {
         url: "assets/stablewallet-D3fFDTkG.js",
@@ -2077,22 +2077,22 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/staking-DG6RMHIw.css",
         revision: null
     }, {
-        url: "assets/staking-ylqu5UCw.js",
+        url: "assets/staking-DymJJIbA.js",
         revision: null
     }, {
         url: "assets/status-DEbRpCSZ.js",
         revision: null
     }, {
-        url: "assets/subaccounts-jhaG1CiJ.js",
+        url: "assets/subaccounts-CBVUR8Z1.js",
         revision: null
     }, {
         url: "assets/subaccounts-P-SjI17i.css",
         revision: null
     }, {
-        url: "assets/Subtitle-Cx1x-qL8.css",
+        url: "assets/Subtitle-C6oUzL5I.js",
         revision: null
     }, {
-        url: "assets/Subtitle-ytb6lg8s.js",
+        url: "assets/Subtitle-Cx1x-qL8.css",
         revision: null
     }, {
         url: "assets/subwallet-BrCktkYs.js",
@@ -2107,34 +2107,34 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/TelInput-BuvimJM3.css",
         revision: null
     }, {
-        url: "assets/TelInput.vue_vue_type_style_index_0_lang-BW-J4Rxk.js",
+        url: "assets/TelInput.vue_vue_type_style_index_0_lang-ClWsfgLD.js",
         revision: null
     }, {
-        url: "assets/terms-conditions-DQo09PAQ.js",
+        url: "assets/terms-conditions-npPA6K_D.js",
         revision: null
     }, {
-        url: "assets/terms-CvASxGgU.js",
-        revision: null
-    }, {
-        url: "assets/TermsBlock-BFZNknm2.js",
+        url: "assets/terms-CPaVk398.js",
         revision: null
     }, {
         url: "assets/TermsBlock-Bug2am9V.css",
         revision: null
     }, {
+        url: "assets/TermsBlock-DOGIHBme.js",
+        revision: null
+    }, {
+        url: "assets/tiny-slider-CC0nyWcN.js",
+        revision: null
+    }, {
         url: "assets/tiny-slider-CrI2cxtt.css",
         revision: null
     }, {
-        url: "assets/tiny-slider-Xl4aEE9u.js",
+        url: "assets/Title-B_xB6icS.js",
         revision: null
     }, {
         url: "assets/Title-BOQLNN4S.css",
         revision: null
     }, {
-        url: "assets/Title-ChmnbwlA.js",
-        revision: null
-    }, {
-        url: "assets/token-risk-CrLHa6p_.js",
+        url: "assets/token-risk-Bt5PWCw7.js",
         revision: null
     }, {
         url: "assets/tokenary-DOhWyebD.js",
@@ -2149,10 +2149,10 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/transfersub-BM_BmEC2.css",
         revision: null
     }, {
-        url: "assets/transfersub-DRArYZzZ.js",
+        url: "assets/transfersub-kBJaihTG.js",
         revision: null
     }, {
-        url: "assets/transfersub.vue_vue_type_style_index_0_lang-aEZYB7wL.js",
+        url: "assets/transfersub.vue_vue_type_style_index_0_lang-CAgEAYMJ.js",
         revision: null
     }, {
         url: "assets/trust-DCUM3oX2.js",
@@ -2167,31 +2167,31 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/units-DFlkXKBd.js",
         revision: null
     }, {
+        url: "assets/unsubscribe-BtqtARaI.js",
+        revision: null
+    }, {
         url: "assets/unsubscribe-CHmyDOPc.css",
         revision: null
     }, {
-        url: "assets/unsubscribe-CKmzgEhQ.js",
+        url: "assets/use-dialog-CC6CVfkB.js",
         revision: null
     }, {
-        url: "assets/use-dialog-CmZNE833.js",
+        url: "assets/use-global-config-CYuHb1FB.js",
         revision: null
     }, {
-        url: "assets/use-global-config-Dm8LyY4T.js",
+        url: "assets/useNotyfLong-unFWQDox.js",
         revision: null
     }, {
-        url: "assets/useNotyfLong-By9YegaK.js",
-        revision: null
-    }, {
-        url: "assets/usePageTitle-BxNzo3__.js",
+        url: "assets/usePageTitle-BiOJFdog.js",
         revision: null
     }, {
         url: "assets/user-qMNVzsWD.js",
         revision: null
     }, {
-        url: "assets/useSeoMeta-CRPJPIvz.js",
+        url: "assets/useSeoMeta-DJrBtPw8.js",
         revision: null
     }, {
-        url: "assets/validator-Rlal7f47.js",
+        url: "assets/validator-Kt7cHrwc.js",
         revision: null
     }, {
         url: "assets/via-placeholder-csI6CdwS.js",
@@ -2200,58 +2200,58 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/viaPlaceholderErrorHandler-CLF0o5vT.js",
         revision: null
     }, {
-        url: "assets/viewWrapper-Dh8gOQC5.js",
-        revision: null
-    }, {
-        url: "assets/VInput-C8HKODxn.js",
+        url: "assets/viewWrapper-yhXGfwRy.js",
         revision: null
     }, {
         url: "assets/VInput-D_TQZWMh.css",
         revision: null
     }, {
+        url: "assets/VInput-DA6_NWOO.js",
+        revision: null
+    }, {
+        url: "assets/VPageContent-BIuP73X_.js",
+        revision: null
+    }, {
         url: "assets/VPageContent-BYwvCdY8.css",
         revision: null
     }, {
-        url: "assets/VPageContent-DUZWmank.js",
+        url: "assets/VPlaceload-DcvQMSN9.js",
         revision: null
     }, {
         url: "assets/VPlaceload-g7C4uRZg.css",
         revision: null
     }, {
-        url: "assets/VPlaceload-jGgmcTFZ.js",
+        url: "assets/vue-qrcode.esm-C-BWAPbN.js",
         revision: null
     }, {
-        url: "assets/vue-qrcode.esm-BQaBru8p.js",
+        url: "assets/vue.8fc199ce-DBDcZ0BB.js",
         revision: null
     }, {
-        url: "assets/vue.8fc199ce-D3bCrqKA.js",
+        url: "assets/vue.runtime.esm-bundler-BbVV3g-V.js",
         revision: null
     }, {
-        url: "assets/vue.runtime.esm-bundler-DZHlI3Nq.js",
+        url: "assets/vue3-apexcharts-DWxdUF6r.js",
         revision: null
     }, {
-        url: "assets/vue3-apexcharts-BQlbvZnX.js",
+        url: "assets/vue3-avataaars-DO56oOZp.js",
         revision: null
     }, {
-        url: "assets/vue3-avataaars-C_k_hIh4.js",
+        url: "assets/vue3-lottie.es-CiYK4lOh.js",
         revision: null
     }, {
-        url: "assets/vue3-lottie.es-S_sZ807A.js",
+        url: "assets/vue3-markdown-it.umd.min-h-q_g2pl.js",
         revision: null
     }, {
-        url: "assets/vue3-markdown-it.umd.min--TOU0B4Y.js",
+        url: "assets/vue3-otp-input-C7HeO7ob.js",
         revision: null
     }, {
-        url: "assets/vue3-otp-input-WwN5-mwI.js",
-        revision: null
-    }, {
-        url: "assets/vueform-lZjeP4qK.js",
+        url: "assets/vueform-CsrN2hIR.js",
         revision: null
     }, {
         url: "assets/wallet-BMMlCmce.css",
         revision: null
     }, {
-        url: "assets/wallet-CMrzSgff.js",
+        url: "assets/wallet-HYPj2Mhv.js",
         revision: null
     }, {
         url: "assets/walletconnect-opz-Ugfc9rjM.js",
@@ -2260,7 +2260,7 @@ define(["./workbox-f5523f08"], (function(e) {
         url: "assets/web3presale-BlU_JUWQ.css",
         revision: null
     }, {
-        url: "assets/web3presale-DkWMyFbP.js",
+        url: "assets/web3presale-hEtTkQbJ.js",
         revision: null
     }, {
         url: "assets/workbox-window.prod.es5-CIVDLvzL.js",

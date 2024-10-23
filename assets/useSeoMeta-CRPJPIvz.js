@@ -1,10 +1,5 @@
-import {
-    G as t
-} from "./index-jdACH0Rc.js";
-import {
-    u as e
-} from "./vue.8fc199ce-D3bCrqKA.js";
-
+import {G as t} from "./index-jdACH0Rc.js";
+import {u as e} from "./vue.8fc199ce-D3bCrqKA.js";
 function o(o, r, n, p) {
     t();
     let i = [{
@@ -18,9 +13,10 @@ function o(o, r, n, p) {
         content: o
     }];
     if (p && i.push({
-            property: "og:image",
-            content: p
-        }), n) {
+        property: "og:image",
+        content: p
+    }),
+    n) {
         const t = [{
             property: "twitter:title",
             content: o
@@ -31,13 +27,12 @@ function o(o, r, n, p) {
         p && t.push({
             property: "twitter:image",
             content: p
-        }), i = [...i, ...t]
+        }),
+        i = [...i, ...t]
     }
     e({
         title: o,
         meta: [...i]
     })
 }
-export {
-    o as u
-};
+export {o as u};
